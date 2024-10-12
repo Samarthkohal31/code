@@ -1,4 +1,4 @@
-n=int(input("enter number: "))
+n=int(input("enter number:"))
 
 print(n)
 if n >50:
